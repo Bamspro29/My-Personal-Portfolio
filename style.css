@@ -1,0 +1,183 @@
+
+.contenaire{
+    background-color: white;
+    width: 100%;
+    margin-left: 1%;
+    margin-right: 1%;
+
+}
+
+.navb{
+    width: 100%;
+}
+.chat{
+    background-color: rgb(64, 64, 247);
+    color: white;
+    padding: 5px;
+    margin-left: 10px;
+}
+
+
+li :hover{
+    background-color: rgb(189, 214, 236);
+    
+}
+
+
+
+
+/* .bt{
+        
+   display: flex;
+    width: auto;
+    height: auto;
+    margin: auto;
+    
+
+    
+
+} */
+.sect1{
+    margin-top: 5%;
+    width: 100%;
+   
+}
+.touls{
+    background-color: rgb(220, 219, 218);
+    padding: 5px;
+}
+
+
+.avencement{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.progress{
+    margin-top: 2px;
+    margin-bottom: 2px;
+}
+
+
+.c1{
+background-color:rgb(67, 153, 251);
+color: white;
+}
+.icon1{
+width: 10%;
+}
+
+.sect3{
+    margin-top: 5%;
+
+    
+}
+
+.p1{
+    color: rgb(67, 153, 251);
+    width: 60%;
+    margin: 0 auto;
+}
+.sect4{
+    background-color: rgb(86, 86, 243);
+    margin-top: 5%;
+    padding-bottom: 5%;
+
+    
+}
+
+.nano{
+    margin: 0 auto;
+    width: 50%;
+    color: white;
+}
+
+.CUB{
+    margin-left: 1%;
+    margin-right:1%;
+}
+
+.imgp{
+padding: -40px;
+}
+
+.temoin{
+    width: 20%;
+    margin-left: 40%;
+    margin-top: 5px;
+    }
+.star{
+    margin-left: -10%;
+}
+
+/* .procol{
+} */
+
+/* .toulsimage{
+    
+
+}  */
+/* .sect2{
+    background-color:white;
+   
+}
+
+.sect3{
+    background: #bedded;
+   
+}
+
+.im6{
+    display: flex;
+}
+
+
+
+
+.sect4{
+    
+    background:white;
+    width: 100%;
+    margin: 0 auto;
+    padding-top: 2%;
+}
+.sect5{
+    
+    background: white;
+    width: 100%;
+    margin: 0 auto;
+    margin-top: 2%;
+}
+.nano{
+    margin: 0 auto;
+    width: 50%;
+}
+
+
+.sect6{
+    width: 100%;
+    margin: 0 auto;
+    background-color: #bedded;
+
+}
+.icone{
+    display: flex;
+    margin: 0 auto;
+
+}
+
+h2{
+    color: navy;
+    margin-left: 5px;
+}
+
+
+h4{
+    color:navy ;
+    margin-left: 5px;
+
+}
+h5{
+    color:navy ;
+    margin-left: 5px;
+
+} */
